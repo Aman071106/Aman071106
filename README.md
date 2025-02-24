@@ -66,7 +66,7 @@
 🔹 **Technologies**: Move, React, Web3, Ethereum Testnet  
 🔹 **Features**: NFT Ticketing (ERC-721/1155), Secondary Marketplace, Bidding System  
 
-🚀 **[Live Demo](#)** | 📌 **[Repo](https://github.com/Aman071106/Blockchain-Ticketing-System)**  
+🚀 **[Live Demo](https://web3app-puce.vercel.app/)** | 📌 **[Repo](https://github.com/Aman071106/Blockchain-Ticketing-System)**  
 
 ---
 
@@ -74,7 +74,7 @@
 🔹 **Technologies**: Flutter, Firebase, MapLibre  
 🔹 **Features**: Real-time monitoring (Speed, Temp, Location, Battery Level)  
 
-🚀 **[Live Demo](#)** | 📌 **[Repo](https://github.com/Aman071106/Vehicle-Telemetry-App)**  
+🚀  📌 **[Repo](https://github.com/Aman071106/Vehicle-Telemetry-App)**  
 
 ---
 
@@ -92,7 +92,10 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/aman_071106?theme=dark&font=Kanit&ext=heatmap)](https://leetcode.com/u/aman_071106/)
 
-[![Codeforces Stats](https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/Codeforces/Codeforces.png)](https://codeforces.com/profile/AmanGuptacd)
+### Codeforces Stats   
+
+**[🔗 View Full Profile](https://codeforces.com/profile/AmanGuptacd)**
+
 
 ---
 
