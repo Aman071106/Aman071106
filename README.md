@@ -25,7 +25,8 @@
 - 🚀 Developing **Flutter apps** (Vehicle Telemetry, AI Chatbot, Weather App)  
 - 🔬 Exploring **ML/DL for Image Classification** (16K+ dataset)  
 - 🔥 Passionate about **Web3, Smart Contracts, Firebase, AI, and Cloud Computing**  
-- 📫 Let's Connect: **[LinkedIn](https://www.linkedin.com/feed/)**  
+- 📫 Let's Connect: **[LinkedIn](https://www.linkedin.com/feed/)**
+- 🌐 Portfolio: **[Portfolio](https://portfolio-web-7ea37.web.app/)**
 
 ---
 
