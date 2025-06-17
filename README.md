@@ -1,7 +1,4 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30%" alt="Banner" />
-</p>
+
 
 <!-- Animated Introduction -->
 <h1 align="center">
@@ -12,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B500&center=true&vCenter=true&width=1000&lines=Flutter+%7C+Blockchain+%7C+ML+%7C+Web3+%7C+GSoC+Enthusiast;Competitive+Programmer+%7C+Codeforces+%7C+Leetcode;Passionate+about+Scalable+and+High-Performance+Systems">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B500&center=true&vCenter=true&width=1000&lines=Flutter+%7C+Blockchain+%7C+ML+%7C+Web3+%7C+Open Source+Enthusiast;Competitive+Programmer+%7C+Codeforces+%7C+Leetcode;Flutter%7C Development+%7CAI/DL;Passionate+about+Scalable+and+High-Performance+Systems">
 </p>
 
 ---
