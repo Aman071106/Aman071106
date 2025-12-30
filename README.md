@@ -1,96 +1,133 @@
-<!-- Animated Wave and Welcome -->
-
+<!-- Animated Wave + Title -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100px">
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="180px">
 </h1>
 <h1 align="center">
-  Hey there, I'm Aman Gupta! 🚀
+  Hey, I'm <span style="color:#f7b500;">Aman Gupta</span> 
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B500&center=true&vCenter=true&width=1000&lines=GenAI+%7C+Agentic+AI+%7C+ML+%7C+DL+%7C+MLOps;Flutter+%7C+LangChain+%7C+CrewAI+%7C+LangGraph;AWS+%7C+Docker+%7C+Airflow+%7C+Vertex+App+%7C+Open+Source+%7C+Hackathons;Competitive+Programming+%7C+Codeforces+%7C+Leetcode">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B500&center=true&vCenter=true&width=1000&lines=AI+%26+Deep+Learning;Agentic+AI+%7C+Multimodal+Systems;Full-Stack+%7C+Flutter+%7C+Next.js;Computer+Vision+%7C+LLMs+%7C+RAG;Competitive+Programming+%7C+Codeforces+Specialist">
 </p>
 
 ---
 
 ## 🌟 About Me
 
-* 🏆 Competitive Programmer | [CodeForces](https://codeforces.com/profile/AmanGuptacd) | [Leetcode](https://leetcode.com/u/aman_071106/)
-* 💼 Actively seeking **internships, freelance roles, and real-world projects** in **AI/ML**, **Agentic AI**, and **MLOps**
-* 🚀 Built **Vertex - Institute Companion App** in Flutter
-* 🤖 Developed **AI Agent Advisor** using Fetch AI, VectorDB, LangChain, and CrewAI — *FrostHack 2025*, Top-3 at IIT Mandi
-* 🔍 Exploring **LLMOps**, **AWS**, **Docker**, **Airflow**, **DVC**, **Dagshub**
-* ✨ Passionate about **scalable, high-performance systems**, **Generative AI**, and **research-backed development**
-* 💬 Connect with me on [LinkedIn](https://www.linkedin.com/feed/) or view my [Portfolio](https://portfolio-web-7ea37.web.app/)
+- 🤖 **AI/ML & Multimodal Developer** — building intelligent, efficient, user-centric systems  
+- 🔥 **Agentic AI + LLM Systems** — pipelines, orchestration, autonomous workflows  
+- 🧠 Strong in **Computer Vision**, **PyTorch**, **RAG**, **Embeddings**, **Model Optimization**  
+- 📱 **Flutter Developer** — Built Vertex, an institute-wide app  
+- 🏹 **Competitive Programmer** — Codeforces Specialist (1560)  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-gupta-730694323/)  
+
+---
+
+# 🧭 Skill Map 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman071106&theme=github_dark" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman071106&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman071106&theme=github_dark" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman071106&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman071106&theme=github_dark" width="45%" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Languages & Frameworks
-
+### 🚀 AI/ML & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,dart,kotlin,flutter,react,nodejs,express,mongodb,firebase&perline=8" />
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ONNX-0066CC?style=for-the-badge" />
 </p>
 
-### 🛠️ AI/ML & MLOps Tooling
-
+### 🧩 App & Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/LangChain-blue?logo=langchain&style=flat-square" />
-  <img src="https://img.shields.io/badge/CrewAI-grey?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangGraph-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/MLflow-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Airflow-darkgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/DVC-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dagshub-black?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=flutter,nextjs,nodejs,express,fastapi" />
 </p>
 
-### 📄 Dev Tools
-
+### 🧰 Tools & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,heroku,postman,vscode,androidstudio,figma,sqlite" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman071106&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman071106&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman071106&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,firebase,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-* ✨ **[AI Agent Advisor](https://github.com/Aman071106/FrostHack2025)** – Built during *FrostHack 2025* using Fetch AI agents, VectorDB, LangChain, CrewAI
-* ✨ **Vertex** – Complete institute companion app built with Flutter, Firebase
-* ✨ **LangChain/CrewAI Projects** – Practical GenAI integrations with real-world use cases
+### 🔥 **AI Photo Editor 2030** — Inter IIT Tech Meet 14  
+📌 *Computer Vision · Multimodal · Agentic AI*  
+🔗 **Repo:** https://github.com/Aman071106/AURORA-AGENTIC-PHOTO-EDITOR  
+- Multi-stage CV pipeline (YOLO11n, BiRefNet, DepthAnything-V2, MI-GAN, SwinIR)  
+- 5–10s end-to-end edits on 2024 GPUs → **1.5–2.2s projected mobile INT4**  
+- Dual-agent architecture (Fast Agent + Thinking Agent)
 
 ---
 
-## 🔥 Contribution Graph
+### 💬 **Milo Mate — On-Device AI Customer Support**  
+📌 *Gemini Nano · RAG · Chrome Extension*  
+🔗 https://github.com/Aman071106/google_built_in_ai  
+- Offline multilingual voice chat (sub-second latency)  
+- Local embeddings + RAG for instant webpage understanding  
+
+---
+
+### 🧠 **RSNA Intracranial Aneurysm Detection (Kaggle)**  
+📌 *3D CNNs · MONAI · Medical Imaging*  
+🔗 https://github.com/Aman071106/rsna_anuerysm  
+- RadImageNet-pretrained CNN + BiGRU  
+- **Compressed 314GB → 1.9GB embeddings (165× reduction)**  
+- Achieved **0.59 AUC** on Kaggle test set  
+
+---
+
+### 🧘 **YogMaya — Multimodal AI Wellness Platform**  
+📌 *Flutter · MediaPipe · Gemini AI · RAG*  
+🔗 https://github.com/Aman071106/dropout_society  
+- Real-time yoga pose detection (87% accuracy @ 30 FPS)  
+- Multimodal (text, image, pose, audio) interaction  
+- Unified RAG memory system for personalized health and wellness tracking  
+
+---
+
+### 💸 **AI Finance Advisor — FrostHack 2025 (3rd Place)**  
+📌 *Fetch.AI Agents · RAG · VectorDB · Next.js*  
+🔗 https://github.com/Aman071106/FrostHack2025  
+- Autonomous finance agents for budget analysis, insights, and recommendations  
+- Integrated RAG + analytics pipeline for personal finance intelligence  
+- Ranked **Top 3** among IIT Mandi’s largest hackathon submissions  
+
+---
+
+### ⚔️ **Nyxara — AI Gaming Assistant (WIP)**  
+📌 *LLMs · RAG · Real-time Agentic Pipeline*  
+🔗 https://github.com/Aman071106/nyxara  
+- Game-aware AI assistant that monitors gameplay context  
+- Provides real-time strategies, optimization decisions, and hints  
+- Modular architecture with agentic planning + local embeddings
+
+---
+## ⚡ Competitive Programming
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman071106&theme=react-dark&hide_border=true&area=true" width="95%" />
+  <a href="https://leetcode.com/u/aman_071106/">
+    <img src="https://leetcard.jacoblin.cool/aman_071106?theme=dark&font=Kanit&ext=heatmap" width="60%" />
+  </a>
 </p>
 
----
-
-## ⚡️ Competitive Programming
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aman_071106?theme=dark\&font=Kanit\&ext=heatmap)](https://leetcode.com/u/aman_071106/)
-
-### Codeforces: Specialist Rank
-
-**[View Profile →](https://codeforces.com/profile/AmanGuptacd)**
+<p align="center">
+  <a href="https://codeforces.com/profile/AmanGuptacd"><b>View Codeforces Profile →</b></a>
+</p>
 
 ---
 
@@ -98,15 +135,15 @@
 
 <p align="center">
   <a href="https://github.com/Aman071106">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aman-gupta-730694323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/aman_071106/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/AmanGuptacd">
-    <img src="https://img.shields.io/badge/CodeForces-%23181717.svg?&style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeForces-181717?style=for-the-badge&logo=codeforces" />
   </a>
 </p>
