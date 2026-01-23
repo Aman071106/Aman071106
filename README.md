@@ -1,7 +1,8 @@
 <!-- Animated Wave + Title -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="180px">
-</h1>
+  
+<td width="25%" valign="center" align="center" style="border: 1px solid #30363d;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" style="border-radius:8px; border: 2px solid #00C7FF; box-shadow: 0 0 20px #00C7FF;">
 <h1 align="center">
   Hey, I'm <span style="color:#f7b500;">Aman Gupta</span> 
 </h1>
