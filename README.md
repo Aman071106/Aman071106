@@ -22,14 +22,11 @@
 - 🏹 **Competitive Programmer** — Codeforces Specialist (1560)  
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-gupta-730694323/)  
 
-## Open Source Contributions
+## 🤝 Open Source Intelligence
 
-![Org Contributions](https://raw.githubusercontent.com/Aman071106/oss-org-contributions/main/charts/org_contributions.svg)
-
-### Highlights
-- Active contributor across multiple organizations
-- Consistent merged PRs
-- Open-source focused on tooling and infrastructure
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aman071106/oss-org-contributions/main/charts/org_contributions.svg" width="90%">
+</p>
   
 ---
 
