@@ -116,12 +116,10 @@
 
 ---
 
-### ⚔️ **Nyxara — AI Gaming Assistant (WIP)**  
+### ⚔️ **Nyxara — AI breach predictor and vault manager**  
 📌 *LLMs · RAG · Real-time Agentic Pipeline*  
 🔗 https://github.com/Aman071106/nyxara  
-- Game-aware AI assistant that monitors gameplay context  
-- Provides real-time strategies, optimization decisions, and hints  
-- Modular architecture with agentic planning + local embeddings
+
 
 ---
 ## ⚡ Competitive Programming
