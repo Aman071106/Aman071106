@@ -105,6 +105,16 @@
 
 ---
 
+### 🤖 Autonomous Multi-Agent Swarm Sorting System  
+📌 *ROS2 · Gazebo · Reinforcement Learning · Multi-Agent Robotics*  
+🔗 [Link](https://github.com/Aman071106/cs671_2026_hack) 
+- Fully autonomous 3-robot warehouse swarm with decentralized ROS2 communication  
+- Hybrid PPO + classical control for exploration, obstacle avoidance, and target navigation  
+- RGB-D vision pipeline for real-time object/bin detection and localization  
+- Shared exploration mapping, collaborative pickup/drop, and swarm coordination  
+- RViz visualization, trajectory logging, and automated PDF mission analytics  
+---
+
 ### 🧠 **RSNA Intracranial Aneurysm Detection (Kaggle)**  
 📌 *3D CNNs · MONAI · Medical Imaging*  
 🔗 https://github.com/Aman071106/rsna_anuerysm  
