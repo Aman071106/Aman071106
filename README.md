@@ -72,6 +72,22 @@
 
 ## 🚀 Featured Projects
 
+### 🔥 BiDir-IDD — Physics-Constrained Explainable Deepfake Detection  
+📌 Computer Vision · Explainable AI · Deepfake Forensics  
+
+- 🥈 **2nd Overall** on the **AIGI Detection Benchmark**
+-  Achieved **best open-source score** on the AIGI dataset, outperforming existing OSS SOTA baselines
+-  Introduces **Bidirectional Jensen–Shannon Divergence supervision** for asymmetric evidence organization
+-  Physics-informed forensic priors using **depth, albedo, normals, roughness, metallicity, and frequency cues**
+-  Evidence-aligned **XAI framework** with cross-attention + spectral inconsistency modeling
+-  Quantitative latent manifold restructuring with Fisher Ratio, SVM Margin, Covariance Trace, and UMAP transport analysis
+-  Focused on **cross-domain generalization** through evidence-constrained learning instead of post-hoc explainability
+
+🌐 Web App Coming Soon  
+📦 Open-Source Release Coming Soon
+
+---
+
 ### 🔥 **AI Photo Editor 2030** — Inter IIT Tech Meet 14  
 📌 *Computer Vision · Multimodal · Agentic AI*  
 🔗 **Repo:** https://github.com/Aman071106/AURORA-AGENTIC-PHOTO-EDITOR  
